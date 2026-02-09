@@ -20,9 +20,8 @@
 ## Objetivo
 + Construir um modelo de classificação capaz de estimar o risco de fraude de contas emissoras a partir de variáveis comportamentais agregadas.
 
-##Abordagem:
+## Abordagem:
 + Criar um dataset sintético simulando contas legítimas e fraudulentas
 + Modelar variáveis comportamentais
 + Treinar modelos de classificação
-
 + Avaliar capacidade de separar padrões
