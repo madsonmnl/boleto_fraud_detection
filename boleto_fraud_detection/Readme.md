@@ -5,7 +5,7 @@
  + Contas fraudulentas podem emitir boletos em massa para vítimas que acreditam estar pagando fornecedores legítimos.
  + Nem sempre existe um mecanismo simples para identificar rapidamente emissores suspeitos.
 
-##Problema
+## Problema
 + Identificar precocemente contas potencialmente fraudulentas com base em padrões comportamentais de emissão de boletos ao longo do tempo.
 
 ## Hipóteses
